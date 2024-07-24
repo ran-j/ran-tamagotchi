@@ -13,7 +13,7 @@ This is a simple CLI-based Tamagotchi game implemented in Go.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ran-j/ran-tamagoch
+git clone https://github.com/ran-j/ran-tamagotchi
 ```
 
 2. Build the project:

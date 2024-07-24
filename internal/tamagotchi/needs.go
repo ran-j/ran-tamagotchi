@@ -2,7 +2,7 @@ package tamagotchi
 
 import (
 	"math/rand"
-	Anim "ran-tamagoch/internal/animation"
+	Anim "ran-tamagotchi/internal/animation"
 	"time"
 )
 

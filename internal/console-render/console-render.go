@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	Anim "ran-tamagoch/internal/animation"
-	"ran-tamagoch/internal/tamagotchi"
+	Anim "ran-tamagotchi/internal/animation"
+	"ran-tamagotchi/internal/tamagotchi"
 	"runtime"
 )
 

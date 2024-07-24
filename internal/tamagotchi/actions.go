@@ -1,7 +1,7 @@
 package tamagotchi
 
 import (
-	Anim "ran-tamagoch/internal/animation"
+	Anim "ran-tamagotchi/internal/animation"
 )
 
 func (t *Tamagotchi) Feed(option string) {

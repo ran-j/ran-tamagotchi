@@ -1,7 +1,7 @@
 package game
 
 import (
-	"ran-tamagoch/internal/tamagotchi"
+	"ran-tamagotchi/internal/tamagotchi"
 )
 
 type Game struct {

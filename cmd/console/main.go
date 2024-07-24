@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	console_render "ran-tamagoch/internal/console-render"
-	"ran-tamagoch/internal/game"
-	"ran-tamagoch/internal/tamagotchi"
+	console_render "ran-tamagotchi/internal/console-render"
+	"ran-tamagotchi/internal/game"
+	"ran-tamagotchi/internal/tamagotchi"
 )
 
 type CLIInput struct{}
