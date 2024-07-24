@@ -11,7 +11,7 @@ SRC_DIR = ./cmd/console
 all: build
 
 build:
-	go build -o $(BINARY_NAME) $(SRC_DIR)/main.go
+	go build -ldflags "-s -w" -o $(BINARY_NAME) $(SRC_DIR)/main.go
 
 run: build
 	./$(BINARY_NAME)
